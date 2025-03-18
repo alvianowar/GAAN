@@ -43,7 +43,7 @@ The CNN model consists of:
 
 ## 🤝 Contributors
 - **Alvi Anowar** ([GitHub](https://github.com/alvianowar))
-- **Md.T** ([GitHub](https://github.com/MdTausifulBari))
+- **Md.Tausiful Bari** ([GitHub](https://github.com/MdTausifulBari))
 
 ---
 📌 *This project was developed as part of CSE-499 Senior Design.*
